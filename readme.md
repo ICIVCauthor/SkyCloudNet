@@ -1,4 +1,4 @@
-# SkyCloudNet - CVPR 2023 (#1574)
+# SkyCloudNet - ICIVC 2023 (#19)
 
 
 ###
